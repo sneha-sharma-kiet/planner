@@ -1,40 +1,8 @@
 [
     {
-        "name": "Akshat Mittal",
-        "image": "https://avatars.githubusercontent.com/u/84612609",
-        "about": "MERN stack developer",
-        "socials": [
-            {
-                "username": "@akshatmittal61",
-                "link": "https://twitter.com/akshatmittal61",
-                "service": "twitter"
-            },
-            {
-                "username": "@akshatmittal61",
-                "link": "https://www.linkedin.com/in/akshatmittal61",
-                "service": "linkedin"
-            },
-            {
-                "username": "@akshatmittal61",
-                "link": "https://www.github.com/akshatmittal61",
-                "service": "github"
-            },
-            {
-                "username": "+91 94568 49466",
-                "link": "tel:919456849466",
-                "service": "phone"
-            },
-            {
-                "username": "akshatmittal2506@gmail.com",
-                "link": "mailto:akshatmittal2506@gmail.com",
-                "service": "mail"
-            }
-        ]
-    },
-    {
         "name": "Sneha Sharma",
-        "image": "https://avatars.githubusercontent.com/u/92130285",
-        "about": "Frontend developer",
+        "image": "https://github.com/snehasharma1111.png",
+        "about": "MERN Stack developer",
         "socials": [
             {
                 "username": "@snehasharma1111",
@@ -49,6 +17,28 @@
             {
                 "username": "snehasharma9205@gmail.com",
                 "link": "mailto:snehasharma9205@gmail.com",
+                "service": "mail"
+            }
+        ]
+    },
+    {
+        "name": "Tejasvi Chaudhary",
+        "image": "https://raw.githubusercontent.com/sneha-sharma-kiet/planner/master/src/images/t.jpeg",
+        "about": "MERN stack developer",
+        "socials": [
+            {
+                "username": "@tejasvi24",
+                "link": "https://www.linkedin.com/in/tejasvi24",
+                "service": "linkedin"
+            },
+            {
+                "username": "@TejasviChaudhary",
+                "link": "https://www.github.com/TejasviChaudhary",
+                "service": "github"
+            },
+            {
+                "username": "tejasvi.1923co1022@kiet.edu",
+                "link": "mailto:tejasvi.1923co1022@kiet.edu",
                 "service": "mail"
             }
         ]
