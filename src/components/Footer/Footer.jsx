@@ -22,38 +22,38 @@ const Footer = () => {
 	const r = 7;
 	const socials = [
 		{
-			username: "akshatmittal2506@gmail.com",
-			link: "mailto:akshatmittal2506@gmail.com",
-			icon: <Mail />,
-			angle: -90,
-		},
-		{
-			username: "@akshatmittal61",
-			link: "https://www.linkedin.com/in/akshatmittal61",
-			icon: <Linkedin />,
-			angle: -30,
-		},
-		{
-			username: "@akshatmittal61",
-			link: "https://www.github.com/akshatmittal61",
-			icon: <GitHub />,
-			angle: 30,
-		},
-		{
 			username: "snehasharma9205@gmail.com",
 			link: "mailto:snehasharma9205@gmail.com",
 			icon: <Mail />,
-			angle: 90,
+			angle: -90,
 		},
 		{
 			username: "@snehasharma1111",
 			link: "https://www.linkedin.com/in/snehasharma1111",
 			icon: <Linkedin />,
-			angle: 150,
+			angle: -30,
 		},
 		{
 			username: "@snehasharma1111",
 			link: "https://www.github.com/snehasharma1111",
+			icon: <GitHub />,
+			angle: 30,
+		},
+		{
+			username: "tejasvi.1923co1022@kiet.edu",
+			link: "mailto:tejasvi.1923co1022@kiet.edu",
+			icon: <Mail />,
+			angle: 90,
+		},
+		{
+			username: "@tejasvi24",
+			link: "https://www.linkedin.com/in/tejasvi24",
+			icon: <Linkedin />,
+			angle: 150,
+		},
+		{
+			username: "@TejasviChaudhary",
+			link: "https://www.github.com/TejasviChaudhary",
 			icon: <GitHub />,
 			angle: 210,
 		},
